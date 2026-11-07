@@ -1,0 +1,6 @@
+{
+  "name": "AetherForge - AI Apps & Games Showcase",
+  "description": "Publish, showcase, and play custom AI-created web games and interactive applications with live playgrounds, prompt breakdown, and instant sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
